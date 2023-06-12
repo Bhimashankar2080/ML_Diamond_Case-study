@@ -2,4 +2,6 @@ xgboost
 sklearn
 pandas
 numpy
+seaborn
+ydata-profiling
 
